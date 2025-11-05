@@ -16,14 +16,14 @@ const testimonials: Testimonial[] = [
     name: "Glaring Evolution Technologies",
     role: "Solar Power EPC",
     company: "Engineering Solutions",
-    content: "Divyesh delivered a professional website that perfectly represents our technical expertise in solar energy. The clean design and structured workflow sections have significantly improved our client engagement.",
+    content: "RheoReach Associates delivered a professional website that perfectly represents our technical expertise in solar energy. The clean design and structured workflow sections have significantly improved our client engagement.",
     rating: 5,
   },
   {
     name: "Prisha Interior Solutions",
     role: "Interior Design Firm",
     company: "Design & Aesthetics",
-    content: "The website beautifully captures our design philosophy and values. Divyesh understood our vision and created an elegant, user-friendly platform that showcases our work perfectly.",
+    content: "The website beautifully captures our design philosophy and values. RheoReach Associates understood our vision and created an elegant, user-friendly platform that showcases our work perfectly.",
     rating: 5,
   },
   {
@@ -37,7 +37,7 @@ const testimonials: Testimonial[] = [
     name: "Life Pillars",
     role: "Productivity Platform",
     company: "Personal Development",
-    content: "Divyesh built a full-featured web application with beautiful UI and seamless functionality. The dark-mode dashboard and tracking features work flawlessly. Highly skilled developer!",
+    content: "RheoReach Associates built a full-featured web application with beautiful UI and seamless functionality. The dark-mode dashboard and tracking features work flawlessly. Highly skilled developers!",
     rating: 5,
   },
 ];
@@ -64,7 +64,7 @@ const AnimatedTestimonials = () => {
             Client <span className="gradient-text">Testimonials</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Don't just take my word for it
+            Don't just take our word for it
           </p>
         </div>
 

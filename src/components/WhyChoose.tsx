@@ -34,7 +34,7 @@ const WhyChoose = () => {
         {/* Section header */}
         <div className="text-center mb-16 space-y-4">
           <h2 className="text-5xl md:text-6xl font-bold">
-            Why <span className="gradient-text">Choose Me</span>
+            Why <span className="gradient-text">Choose Us</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Delivering excellence through every project with dedication and expertise
@@ -66,7 +66,7 @@ const WhyChoose = () => {
           <p className="text-lg text-foreground/80">
             <span className="font-semibold text-primary">Let's bring your idea to life!</span>
             <br />
-            Please contact me before placing an order so I can customize the package to perfectly fit your project.
+            Please contact us before placing an order so we can customize the package to perfectly fit your project.
           </p>
         </div>
       </div>

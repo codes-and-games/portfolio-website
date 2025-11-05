@@ -4,8 +4,8 @@ const Footer = () => {
       <div className="container mx-auto max-w-7xl">
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
-            <h3 className="text-2xl font-bold gradient-text mb-2">Divyesh Idhate</h3>
-            <p className="text-muted-foreground">Website Designer & Developer</p>
+            <h3 className="text-2xl font-bold gradient-text mb-2">RheoReach Associates</h3>
+            <p className="text-muted-foreground">Website Designers & Developers</p>
           </div>
 
           <div className="flex flex-col items-center md:items-end gap-4">
@@ -15,7 +15,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="text-primary hover:text-primary-glow transition-colors font-medium"
             >
-              Hire me on Fiverr
+              Hire us on Fiverr
             </a>
             <p className="text-sm text-muted-foreground">
               © {new Date().getFullYear()} All rights reserved

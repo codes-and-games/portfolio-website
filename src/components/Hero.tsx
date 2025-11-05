@@ -20,17 +20,17 @@ const Hero = () => {
 
           {/* Main heading */}
           <h1 className="text-6xl md:text-8xl font-bold tracking-tight animate-fade-in-up">
-            Hi, I'm <span className="gradient-text">Divyesh Idhate</span>
+            Hi, We're <span className="gradient-text">RheoReach Associates</span>
           </h1>
 
           {/* Subheading */}
           <p className="text-2xl md:text-4xl text-muted-foreground animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-            Website Designer & Developer
+            Website Design & Development Services
           </p>
 
           {/* Description */}
           <p className="text-lg md:text-xl text-foreground/80 max-w-3xl mx-auto leading-relaxed animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
-            I design and develop modern, high-performance websites from static to fully dynamic full-stack apps.
+            We design and develop modern, high-performance websites from static to fully dynamic full-stack apps.
           </p>
 
           {/* CTA Buttons */}
@@ -47,7 +47,7 @@ const Hero = () => {
               className="glass border-primary/50 hover:bg-primary/10 px-8 py-6 text-lg rounded-xl"
               onClick={() => document.getElementById('portfolio')?.scrollIntoView({ behavior: 'smooth' })}
             >
-              View My Work
+              View Our Work
             </Button>
           </div>
         </div>

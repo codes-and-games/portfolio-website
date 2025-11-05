@@ -53,7 +53,7 @@ const BentoGrid = () => {
         {/* Section header */}
         <div className="text-center mb-16 space-y-4">
           <h2 className="text-5xl md:text-6xl font-bold">
-            What Makes My Work <span className="gradient-text">Different</span>
+            What Makes Our Work <span className="gradient-text">Different</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Every project combines technical excellence with strategic thinking

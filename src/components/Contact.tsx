@@ -21,7 +21,7 @@ const Contact = () => {
 
             <p className="text-xl text-foreground/80 max-w-2xl mx-auto leading-relaxed">
               Whether you need a stunning portfolio, a powerful web app, or a complete business website, 
-              I'm here to turn your vision into reality.
+              We're here to turn your vision into reality.
             </p>
 
             {/* Contact buttons */}
@@ -46,7 +46,7 @@ const Contact = () => {
                   <Mail className="w-5 h-5 text-primary group-hover:scale-110 transition-transform" />
                   <div className="text-left">
                     <p className="text-xs text-muted-foreground">Email</p>
-                    <p className="text-sm font-medium">divyeshidhate2709@gmail.com</p>
+                    <p className="text-sm font-medium">contact@rheoreach.com</p>
                   </div>
                 </a>
 
@@ -72,7 +72,7 @@ const Contact = () => {
                   <Instagram className="w-5 h-5 text-primary group-hover:scale-110 transition-transform" />
                   <div className="text-left">
                     <p className="text-xs text-muted-foreground">Instagram</p>
-                    <p className="text-sm font-medium">@divyessshh_</p>
+                    <p className="text-sm font-medium">@rheoreach</p>
                   </div>
                 </a>
               </div>
